@@ -67,6 +67,7 @@ This project presents an interactive Super Store Sales Dashboard designed to ana
 
 7. Dashboard Screenshot
 
-   ![Dahboard Preview]()
+   ![Dahboard Preview](https://github.com/riyabhatts/Super-Store-Sales-dashboardd/blob/main/Dashboard_SS3.png)
+   
 8. follow me on linkedin :
    https://www.linkedin.com/in/riyabhattz/
